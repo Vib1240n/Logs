@@ -1,0 +1,311 @@
+process_create: xpc service 'ViewBridgeAuxiliary' detected! ignoring..
+process_create: xpc service 'ShortcutsWidgetExtension' detected! ignoring..
+process_create: xpc service 'macOSWidgetExtension' detected! ignoring..
+process_create: xpc service 'CursorUIViewService' detected! ignoring..
+process_create: xpc service 'FindMyWidgetIntentsPeople' detected! ignoring..
+process_create: xpc service 'Messages' detected! ignoring..
+process_create: xpc service 'PhotosReliveWidget' detected! ignoring..
+process_create: xpc service 'CalendarWidgetExtension' detected! ignoring..
+process_create: xpc service 'Paste Networking' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Networking' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Graphics and Media' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Web Content' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Web Content' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Web Content' detected! ignoring..
+process_create: xpc service 'OrcaSlicer Web Content' detected! ignoring..
+process_create: xpc service 'Open and Save Panel Service (OrcaSlicer)' detected! ignoring..
+process_create: xpc service 'SiriNCService' detected! ignoring..
+process_create: xpc service 'Open and Save Panel Service (Preview)' detected! ignoring..
+process_create: xpc service 'Notes Graphics and Media' detected! ignoring..
+process_create: xpc service 'PaperKitExtension (Notes)' detected! ignoring..
+process_create: xpc service 'Notes Networking' detected! ignoring..
+process_create: xpc service 'Notes Web Content' detected! ignoring..
+process_create: xpc service 'Paste Networking' detected! ignoring..
+process_create: xpc service 'Open and Save Panel Service (Zen Browser)' detected! ignoring..
+process_create: xpc service 'IMDPersistenceAgent' detected! ignoring..
+process_create: xpc service 'Mail Graphics and Media' detected! ignoring..
+process_create: xpc service 'Mail Networking' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'Mail Web Content' detected! ignoring..
+process_create: xpc service 'CalendarWidgetExtension' detected! ignoring..
+process_create: xpc service 'com.apple.security.pboxd' detected! ignoring..
+process_create: xpc service 'com.apple.WebKit.Networking' detected! ignoring..
+process_create: xpc service 'com.apple.WebKit.WebContent' detected! ignoring..
+process_create: xpc service 'com.apple.WebKit.WebContent' detected! ignoring..
+process_create: xpc service 'Dock Extra (Arc.app)' detected! ignoring..
+process_create: xpc service 'Dock Extra' detected! ignoring..
+process_create: xpc service 'Dock Extra (Permute.app)' detected! ignoring..
+process_create: xpc service 'Dock Extra (Setapp.app)' detected! ignoring..
+process_create: xpc service 'QuickLookUIService (PID 93475)' detected! ignoring..
+process_manager_add_running_processes: Finder (93475) was found! caching psn..
+process_create: xpc service 'Google Drive' detected! ignoring..
+process_create: xpc service 'Adobe Content Synchronizer Finder Extension' detected! ignoring..
+process_create: xpc service 'TickTick Graphics and Media' detected! ignoring..
+process_create: xpc service 'QuickLookUIService (Open and Save Panel Service (Zen Browser))' detected! ignoring..
+window_manager_begin: storeuid (98155) is not observable, subscribing to activationPolicy changes
+window_manager_begin: callservicesd (7549) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Notification Center (94332) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: Code has windows that are not yet resolved
+window_manager_begin: yabai (25470) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (92121) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: Mail has windows that are not yet resolved
+window_manager_begin: iStat Menus Menubar (1431) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (91278) is not observable, subscribing to activationPolicy changes
+window_manager_begin: UIKitSystem (1133) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Siri (56823) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Paste (1454) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Wi-Fi (963) is not observable, subscribing to activationPolicy changes
+window_manager_begin: calaccessd (985) is not observable, subscribing to activationPolicy changes
+window_manager_begin: SetappExtension (1447) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (89795) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (96552) is not observable, subscribing to activationPolicy changes
+window_manager_begin: SetappAgent (1441) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: Home Assistant has windows that are not yet resolved
+window_manager_begin: Zen BrowserCP Isolated Web Content (20758) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Utility Process (56511) is not observable, subscribing to activationPolicy changes
+window_manager_begin: SystemUIServer (1206) is not observable, subscribing to activationPolicy changes
+window_manager_begin: familycircled (1022) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Web Content (25166) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: Zen Browser has windows that are not yet resolved
+window_manager_begin: Zen BrowserCP Isolated Web Content (20595) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (69909) is not observable, subscribing to activationPolicy changes
+window_manager_begin: BackgroundTaskManagementAgent (24096) is not observable, subscribing to activationPolicy changes
+window_manager_begin: CoreLocationAgent (78324) is not observable, subscribing to activationPolicy changes
+window_manager_begin: One Switch (1452) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (94841) is not observable, subscribing to activationPolicy changes
+window_manager_begin: nbagent (49235) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Alfred (1462) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Universal Control (1041) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20761) is not observable, subscribing to activationPolicy changes
+window_manager_begin: loginwindow (597) is not observable, subscribing to activationPolicy changes
+window_manager_begin: SoftwareUpdateNotificationManager (61320) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Privileged Content (56481) is not observable, subscribing to activationPolicy changes
+window_manager_create_and_add_window:50499 WezTerm - yabai (AXWindow:AXStandardWindow:1)
+window_manager_begin: Wallpaper (1187) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20738) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Logi AI Prompt Builder (75513) is not observable, subscribing to activationPolicy changes
+window_manager_begin: PowerChime (27447) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (11592) is not observable, subscribing to activationPolicy changes
+window_manager_begin: yabai (24425) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (5360) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Web Content (21090) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Control Center (983) is not observable, subscribing to activationPolicy changes
+window_manager_create_and_add_window:52615 TickTick - TickTick (AXWindow:AXStandardWindow:1)
+window_manager_begin: UserNotificationCenter (1273) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP WebExtensions (56489) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (93282) is not observable, subscribing to activationPolicy changes
+window_manager_begin: SetappLauncher (1444) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (96553) is not observable, subscribing to activationPolicy changes
+window_manager_begin: MonitorControl (72863) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Bartender 5 (1563) is not observable, subscribing to activationPolicy changes
+window_manager_begin: magnetLauncher (1443) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20759) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Accessibility Services (25273) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Socket Process (56465) is not observable, subscribing to activationPolicy changes
+window_manager_begin: CoreServicesUIAgent (4957) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Web Content (22947) is not observable, subscribing to activationPolicy changes
+window_manager_begin: WindowManager (1001) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20596) is not observable, subscribing to activationPolicy changes
+window_manager_begin: iStat Menus Helper (1446) is not observable, subscribing to activationPolicy changes
+window_manager_begin: com.apple.PressAndHold (1117) is not observable, subscribing to activationPolicy changes
+window_manager_begin: AirPlayUIAgent (1440) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (9256) is not observable, subscribing to activationPolicy changes
+window_manager_begin: studentd (46870) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Logi Options+ (1439) is not observable, subscribing to activationPolicy changes
+window_manager_begin: FoxitPDFEditorUpdateService (757) is not observable, subscribing to activationPolicy changes
+window_manager_begin: talagentd (49410) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (96506) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Dock (92865) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: OrcaSlicer has windows that are not yet resolved
+window_manager_begin: Zen BrowserCP Isolated Web Content (459) is not observable, subscribing to activationPolicy changes
+window_manager_begin: FigmaAgent (1457) is not observable, subscribing to activationPolicy changes
+window_manager_begin: AOSUIPrefPaneLauncher (70904) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20739) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP RDD Process (56510) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Keychain Circle Notification (5899) is not observable, subscribing to activationPolicy changes
+window_manager_begin: WireGuard (1456) is not observable, subscribing to activationPolicy changes
+window_manager_begin: chronod (992) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Google Drive (14392) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Utility Process (56490) is not observable, subscribing to activationPolicy changes
+window_manager_begin: skhd (58025) is not observable, subscribing to activationPolicy changes
+window_manager_begin: coreautha (24026) is not observable, subscribing to activationPolicy changes
+window_manager_begin: universalAccessAuthWarn (1512) is not observable, subscribing to activationPolicy changes
+window_manager_begin: TextInputMenuAgent (1445) is not observable, subscribing to activationPolicy changes
+window_manager_begin: universalaccessd (920) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Spotlight (1238) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (8341) is not observable, subscribing to activationPolicy changes
+window_manager_add_existing_application_windows: Music has windows that are not yet resolved
+window_manager_begin: Zen BrowserCP Isolated Service Worker (18848) is not observable, subscribing to activationPolicy changes
+window_manager_begin: Zen BrowserCP Isolated Web Content (20760) is not observable, subscribing to activationPolicy changes
+EVENT_HANDLER_DAEMON_MESSAGE: signal --add event=dock_did_restart action=sudo yabai --load-sa
+EVENT_HANDLER_DAEMON_MESSAGE: config focus_follows_mouse autofocus
+yabai configuration loaded..
+EVENT_HANDLER_DAEMON_MESSAGE: config layout bsp
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED WezTerm 50499
+EVENT_HANDLER_WINDOW_RESIZED:DEBOUNCED WezTerm 50499
+EVENT_HANDLER_WINDOW_RESIZED:DEBOUNCED WezTerm 50499
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED WezTerm 50499
+EVENT_HANDLER_WINDOW_MOVED: TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config window_placement second_child
+EVENT_HANDLER_WINDOW_RESIZED: TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config mouse_follows_focus on
+EVENT_HANDLER_DAEMON_MESSAGE: config mouse_modifier alt
+EVENT_HANDLER_WINDOW_RESIZED: TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config mouse_action1 move
+EVENT_HANDLER_WINDOW_MOVED: TickTick 52615
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config mouse_action2 resize
+EVENT_HANDLER_WINDOW_RESIZED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config window_opacity on
+EVENT_HANDLER_WINDOW_RESIZED: TickTick 52615
+EVENT_HANDLER_WINDOW_MOVED: TickTick 52615
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config normal_window_opacity 0.85
+EVENT_HANDLER_WINDOW_RESIZED: TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config active_window_opacity 1
+unknown value '1' given to command 'active_window_opacity' for domain 'config'
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^System Settings$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Finder$ manage=off
+EVENT_HANDLER_WINDOW_RESIZED: TickTick 52615
+EVENT_HANDLER_WINDOW_MOVED: TickTick 52615
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^ColorSlurp$ manage=off
+EVENT_HANDLER_WINDOW_RESIZED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_WINDOW_RESIZED:DEBOUNCED TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Font Book$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^JetBrains Toolbox$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Home Assistant$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^zoom.us$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^zoom$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Alfred 5$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^iStats Menus$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^balenaEtcher$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Home$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Alfred Preferences$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Messages$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Keychain Access$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Preview$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^SF Symbols$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^TickTick$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: config top_padding 2
+EVENT_HANDLER_WINDOW_MOVED: TickTick 52615
+EVENT_HANDLER_DAEMON_MESSAGE: config window_topmost off
+unknown command 'window_topmost' for domain 'config'
+unknown command 'off' for domain 'config'
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Fusion$ title!=.*\[(.*)\].* manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add app=^Autodesk Fusion 360$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add label=Fusion app=^Fusion$ title=(Autodesk Fusion (Education License)|) manage=off
+invalid regex pattern '(Autodesk Fusion (Education License)|)' for key 'title'
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add label=Fusion app=^Autodesk Fusion 360$ title=^$ manage=off
+EVENT_HANDLER_DAEMON_MESSAGE: rule --add label=TickTick app=^Ticktick title=^ manage=off
+yabai -m rule --add label=TickTick app=^TickTick$ title=^$ manage=off
+/Users/bb8/.yabairc: line 65: unexpected EOF while looking for matching `"'
+/Users/bb8/.yabairc: line 66: syntax error: unexpected end of file
+EVENT_HANDLER_APPLICATION_FRONT_SWITCHED: TickTick (95975)
+EVENT_HANDLER_MOUSE_DOWN: 1335.62, 74.07
+EVENT_HANDLER_MOUSE_UP: 1335.62, 74.07
+EVENT_HANDLER_MOUSE_DOWN: 1265.58, 173.67
+EVENT_HANDLER_MOUSE_UP: 1265.58, 173.67
+EVENT_HANDLER_MOUSE_DOWN: 1445.98, 86.26
+EVENT_HANDLER_MOUSE_UP: 1445.98, 86.26
+window_manager_create_and_add_window:54209 TickTick - Untitled (AXWindow:AXSystemDialog:1)
+window_manager_create_and_add_window ignoring incorrectly marked window TickTick 54209
+window info:
+{
+        "id":54209,
+        "pid":95975,
+        "app":"TickTick",
+        "title":"Untitled",
+        "scratchpad":"",
+        "frame":{
+                "x":1366.0000,
+                "y":67.0000,
+                "w":340.0000,
+                "h":590.0000
+        },
+        "role":"AXWindow",
+        "subrole":"AXSystemDialog",
+        "root-window":true,
+        "display":1,
+        "space":5,
+        "level":0,
+        "sub-level":0,
+        "layer":"normal",
+        "sub-layer":"normal",
+        "opacity":1.0000,
+        "split-type":"none",
+        "split-child":"none",
+        "stack-index":0,
+        "can-move":true,
+        "can-resize":false,
+        "has-focus":false,
+        "has-shadow":true,
+        "has-parent-zoom":false,
+        "has-fullscreen-zoom":false,
+        "has-ax-reference":true,
+        "is-native-fullscreen":false,
+        "is-visible":false,
+        "is-minimized":false,
+        "is-hidden":false,
+        "is-floating":true,
+        "is-sticky":false,
+        "is-grabbed":false
+}
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED TickTick 54209
+EVENT_HANDLER_WINDOW_FOCUSED: TickTick 54209
+EVENT_HANDLER_WINDOW_FOCUSED: TickTick 52615
+EVENT_HANDLER_WINDOW_DESTROYED: TickTick 54209
+EVENT_HANDLER_MOUSE_DOWN: 1463.89, 88.73
+EVENT_HANDLER_MOUSE_UP: 1463.89, 88.73
+window_manager_create_and_add_window:54211 TickTick - Untitled (AXWindow:AXSystemDialog:1)
+window_manager_create_and_add_window ignoring incorrectly marked window TickTick 54211
+window info:
+{
+        "id":54211,
+        "pid":95975,
+        "app":"TickTick",
+        "title":"Untitled",
+        "scratchpad":"",
+        "frame":{
+                "x":1366.0000,
+                "y":67.0000,
+                "w":340.0000,
+                "h":590.0000
+        },
+        "role":"AXWindow",
+        "subrole":"AXSystemDialog",
+        "root-window":true,
+        "display":1,
+        "space":5,
+        "level":0,
+        "sub-level":-20,
+        "layer":"normal",
+        "sub-layer":"below",
+        "opacity":1.0000,
+        "split-type":"none",
+        "split-child":"none",
+        "stack-index":0,
+        "can-move":true,
+        "can-resize":false,
+        "has-focus":false,
+        "has-shadow":true,
+        "has-parent-zoom":false,
+        "has-fullscreen-zoom":false,
+        "has-ax-reference":true,
+        "is-native-fullscreen":false,
+        "is-visible":true,
+        "is-minimized":false,
+        "is-hidden":false,
+        "is-floating":true,
+        "is-sticky":false,
+        "is-grabbed":false
+}
+EVENT_HANDLER_WINDOW_MOVED:DEBOUNCED TickTick 54211
+EVENT_HANDLER_WINDOW_FOCUSED: TickTick 54211
+EVENT_HANDLER_WINDOW_FOCUSED: TickTick 52615
+EVENT_HANDLER_WINDOW_DESTROYED: TickTick 54211
+EVENT_HANDLER_APPLICATION_FRONT_SWITCHED: WezTerm (78035)
